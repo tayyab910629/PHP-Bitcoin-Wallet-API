@@ -95,7 +95,7 @@ create a postgres Database named ezbitapi and assign a new username and password
 		 #save file
 
 get git server files
-	git clone https://github.com/solboys/PHP-Bitcoin-Wallet-API.git
+	git clone https://github.com/tahirwebs/PHP-Bitcoin-Wallet-API.git
 	mv EzBitcoin-Api-Wallet ezbitapi
 
 change ownership of all files to running as user and nginx user
